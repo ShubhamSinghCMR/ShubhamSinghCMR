@@ -2,7 +2,7 @@
 I'm Shubham, a Software Engineer with over 3 years of hands-on experience in developing scalable web applications using Python and various frameworks. My journey has been filled with exciting projects, from building complex backend systems to designing and optimizing web applications.
 
 ## What I’m Working On 🚀
-I’m currently working on **GPT Maker Project** at **Techolution**:
+I’m currently working on **Generative AI Project** at **Techolution**:
 - Utilizing frameworks such as Flask and FastAPI to build scalable backend services.
 - Optimizing data retrieval systems for improved efficiency and performance.
 
@@ -15,7 +15,7 @@ I’m currently working on **GPT Maker Project** at **Techolution**:
 **Associate Python Developer, Techolution**  
 *Apr '23 — Present*  
 
-Currently working on GPT Maker project:
+Currently working on Generative AI project:
 - Utilizing frameworks such as Flask and FastAPI for building scalable backend services.
 - Optimizing data retrieval systems for improved efficiency and performance.
 
