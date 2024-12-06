@@ -3,7 +3,7 @@ I'm Shubham, a Software Engineer with over 3 years of hands-on experience in dev
 
 ## What I’m Working On 🚀
 I’m currently working on **Generative AI Project** at **Techolution**:
-- Utilizing frameworks such as Flask and FastAPI to build scalable backend services.
+- Adding support for French, Spanish, and Mandarin languages in a real-time speech-to-text module using Python, WebSockets, and Faster-Whisper.
 - Optimizing data retrieval systems for improved efficiency and performance.
 
 ## What I’m Learning 🌱
@@ -15,11 +15,13 @@ I’m currently working on **Generative AI Project** at **Techolution**:
 **Associate Python Developer, Techolution**  
 *Apr '23 — Present*  
 
-Currently working on Generative AI project:
-- Utilizing frameworks such as Flask and FastAPI for building scalable backend services.
-- Optimizing data retrieval systems for improved efficiency and performance.
+- Currently serving Notice Period.
 
-Worked for iHeartMedia, a broadcast media production and distribution company:
+Worked for GNC Holdings, an American multinational retail and nutritional manufacturing company (Oct - Dec 2024):
+- Developed real-time speech-to-text module utilizing Python, Websockets, and Faster-Whisper.
+- Optimized data streaming processes to enhance real-time transcription speed by 25%.
+
+Worked for iHeartMedia, an American broadcast media production and distribution company (April 2023 - Sep 2024):
 - Developed new modules and enhanced functionalities using Python and FastAPI, resulting in a 30% improvement in application performance and scalability.
 - Troubleshot and resolved issues with AWS and RabbitMQ, leading to a 20% increase in system reliability.
 
