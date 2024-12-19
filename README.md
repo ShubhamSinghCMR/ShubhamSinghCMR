@@ -25,7 +25,7 @@ Worked for iHeartMedia, an American broadcast media production and distribution 
 - Served as Faculty Placement Coordinator for postgraduate students, achieving a placement rate of over 90% for the cohort.
 
 **Founder and CEO, Debjanee**  
-*Aug '18 — Jun '20*  
+*Apr '18 — Jun '20*  
 
 - Led all aspects of operations and personnel, ensuring effective management and smooth day-to-day functions.
 - Implemented a growth strategy that rapidly expanded the vendor network, onboarding over 70 local retailers and craftsmen within the first six months.
