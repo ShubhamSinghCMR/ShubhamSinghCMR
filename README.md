@@ -1,21 +1,13 @@
 ## About Me 👨‍🎓
-I'm Shubham, a Software Engineer with over 3 years of hands-on experience in developing scalable web applications using Python and various frameworks. My journey has been filled with exciting projects, from building complex backend systems to designing and optimizing web applications.
+Hi, I’m an AI and Machine Learning engineer with a strong background in Computer Science and Engineering. I specialize in developing scalable solutions to complex challenges, using innovative techniques to drive impactful results. I am also a Doctoral researcher at NIT Jalandhar, focusing on Machine Learning with an emphasis on Deepfake detection.
 
 ## What I’m Working On 🚀
-I’m currently working on **Generative AI Project** at **Techolution**:
-- Adding support for French, Spanish, and Mandarin languages in a real-time speech-to-text module using Python, WebSockets, and Faster-Whisper.
-- Optimizing data retrieval systems for improved efficiency and performance.
-
-## What I’m Learning 🌱
-- **AWS** (Amazon Web Services) for cloud solutions  
-- Containerization using **Docker** for application deployment  
-- **Database optimization** techniques to enhance performance
+- Innovative AI projects to build smarter systems.
+- Researching in the field of Deepfake detection to enhance accuracy and real-time capabilities.
 
 ## Professional Journey 💼
 **Associate Python Developer, Techolution**  
-*Apr '23 — Present*  
-
-- Currently serving Notice Period.
+*Apr '23 — Dec '24*  
 
 Worked for GNC Holdings, an American multinational retail and nutritional manufacturing company (Oct - Dec 2024):
 - Developed real-time speech-to-text module utilizing Python, Websockets, and Faster-Whisper.
@@ -32,24 +24,29 @@ Worked for iHeartMedia, an American broadcast media production and distribution 
 - Conducted lectures for undergraduate and graduate students, consistently receiving positive feedback for engaging teaching methods.
 - Served as Faculty Placement Coordinator for postgraduate students, achieving a placement rate of over 90% for the cohort.
 
-## Skills 🌟
-- **Languages**: Python, Java, PHP, HTML, CSS, JavaScript  
-- **Frameworks**: Django, FastAPI, Flask  
-- **Databases**: PostgreSQL, MySQL, SQLite  
-- **Technologies**: RabbitMQ, AWS, Docker, CI/CD  
-- **Tools**: Git, SQLAlchemy, pytest, pdb
+**Founder and CEO, Debjanee**  
+*Aug '18 — Jun '20*  
+
+- Led all aspects of operations and personnel, ensuring effective management and smooth day-to-day functions.
+- Implemented a growth strategy that rapidly expanded the vendor network, onboarding over 70 local retailers and craftsmen within the first six months.
+- Drove consistent success by overseeing resource management and ensuring operational efficiency.
+
+**Junior Research Fellow, National Institute of Technology Meghalaya**  
+*Dec '17 — Apr '18*  
+
+- Contributed to SERB-DST project: Parallel Model Checking of Hybrid Systems
+- Researched Hybrid Automata and presented findings at NIT Meghalaya's "Third Workshop on Computing: Theory & Application"
+- Collaborated on innovative research initiatives at the National Institute of Technology Meghalaya
 
 ## I’m Looking to Collaborate On 🤝  
-- Innovative web applications using Python and related frameworks  
-- Open-source projects focusing on backend development and microservices  
-- Integrating APIs and cloud services for scalable solutions
+- AI and ML-driven projects solving real-world challenges.
+- Innovative backend solutions and scalable microservices.
+- Research-oriented collaborations in advanced Machine Learning.
 
 ## Ask Me About 💬
-- Python development and frameworks (Django, FastAPI, Flask)  
-- Web application architecture and design  
-- RESTful APIs and microservices implementation  
-- Database management and optimization (PostgreSQL, MySQL, SQLite)  
-- Cloud solutions and deployment (AWS, Docker)
+- AI and ML research and applications.
+- Backend development and RESTful API design.
+- Cloud solutions and containerized deployment.
 
 ## How to Reach Me 📫  
 - **LinkedIn**: [linkedin.com/in/shubhamsinghcmr](https://www.linkedin.com/in/shubhamsinghcmr)
