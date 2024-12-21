@@ -1,9 +1,9 @@
 ## About Me 👨‍🎓
-Hi, I’m an AI and Machine Learning engineer with a strong background in Computer Science and Engineering. I specialize in developing scalable solutions to complex challenges, using innovative techniques to drive impactful results. I am also a Doctoral researcher at NIT Jalandhar, focusing on Machine Learning with an emphasis on Deepfake detection.
+Hi, I’m an AI and Machine Learning engineer with a strong background in Computer Science and Engineering. I specialize in developing scalable solutions to complex challenges, using innovative techniques to drive impactful results. Additionally, I am a doctoral researcher at NIT Jalandhar, focusing on Machine Learning with an emphasis on Deepfake detection.
 
 ## What I’m Working On 🚀
 - Innovative AI projects to build smarter systems.
-- Researching in the field of Deepfake detection to enhance accuracy and real-time capabilities.
+- Research focused on developing models for accurately detecting Deepfakes and enhancing real-time capabilities.
 
 ## Professional Journey 💼
 **Associate Python Developer, Techolution**  
@@ -41,7 +41,7 @@ Worked for iHeartMedia, an American broadcast media production and distribution 
 ## I’m Looking to Collaborate On 🤝  
 - AI and ML-driven projects solving real-world challenges.
 - Innovative backend solutions and scalable microservices.
-- Research-oriented collaborations in advanced Machine Learning.
+- Research-oriented collaborations in AI and Machine Learning.
 
 ## Ask Me About 💬
 - AI and ML research and applications.
