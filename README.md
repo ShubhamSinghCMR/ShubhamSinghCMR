@@ -1,9 +1,9 @@
 ## About Me 👨‍🎓
-Hi, I’m an AI and Machine Learning engineer with a strong background in Computer Science and Engineering. I specialize in developing scalable solutions to complex challenges, using innovative techniques to drive impactful results. Additionally, I am a doctoral researcher at NIT Jalandhar, focusing on Machine Learning with an emphasis on Deepfake detection.
+Hi, I’m an AI and Machine Learning engineer with a strong background in Computer Science and Engineering. I specialize in developing scalable solutions to complex challenges, using innovative techniques to drive impactful results. I am passionate about solving real-world problems and continuously pushing the boundaries of what’s possible through technology and innovation.
 
 ## What I’m Working On 🚀
 - Innovative AI projects to build smarter systems.
-- Research focused on developing models for accurately detecting Deepfakes and enhancing real-time capabilities.
+- Research focused on Crack Detection using advanced image processing techniques.
 
 ## Professional Journey 💼
 **Associate Python Developer, Techolution**  
@@ -14,8 +14,9 @@ Worked for GNC Holdings, an American multinational retail and nutritional manufa
 - Optimized data streaming processes to enhance real-time transcription speed by 25%.
 
 Worked for iHeartMedia, an American broadcast media production and distribution company (April 2023 - Sep 2024):
-- Developed new modules and enhanced functionalities using Python and FastAPI, resulting in a 30% improvement in application performance and scalability.
-- Troubleshot and resolved issues with AWS and RabbitMQ, leading to a 20% increase in system reliability.
+- Designed and developed scalable ETL workflows leveraging Python, improving data transformation efficiency by 30%.
+- Developed new modules and optimized functionalities using Python and FastAPI, enhancing application performance and scalability.
+- Conducted thorough testing and debugging, improving system reliability by 20% and optimizing performance.
 
 **Assistant Professor, Invertis University**  
 *Oct '21 — Mar '23*  
@@ -37,6 +38,13 @@ Worked for iHeartMedia, an American broadcast media production and distribution 
 - Contributed to SERB-DST project: Parallel Model Checking of Hybrid Systems
 - Researched Hybrid Automata and presented findings at NIT Meghalaya's "Third Workshop on Computing: Theory & Application"
 - Collaborated on innovative research initiatives at the National Institute of Technology Meghalaya
+
+**Web Development Intern, National Institute of Technology Meghalaya**  
+*May — July '17*  
+
+- Designed and crafted the user interface for the XSpeed tool using HTML, CSS, JavaScript, and AJAX.
+- Collaborated with team members to develop an efficient and user-friendly web application.
+- Implemented innovative solutions to enhance the online interface for XSpeed project.
 
 ## I’m Looking to Collaborate On 🤝  
 - AI and ML-driven projects solving real-world challenges.
