@@ -26,9 +26,9 @@ Worked for iHeartMedia, an American broadcast media production and distribution 
 **Assistant Professor, Invertis University**  
 *Oct '21 — Mar '23*  
 
-- Mentored final-year students in technical and research projects involving technologies such as Flask, Django, PHP, Java etc.
-- Conducted lectures for undergraduate and graduate students, consistently receiving positive feedback for engaging teaching methods.
-- Served as Faculty Placement Coordinator for postgraduate students, achieving a placement rate of over 90% for the cohort.
+- Mentored final-year students on projects using Django, PHP, Java, and Machine Learning.
+- Delivered engaging lectures, consistently earning positive feedback for engaging teaching methods.
+- Served as Faculty Placement Coordinator for postgraduate students, achieving a 90%+ placement rate.
 
 **Founder and CEO, Debjanee**  
 *Apr '18 — Jun '20*  
