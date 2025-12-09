@@ -1,16 +1,17 @@
-## About Me 👨‍🎓
-Hi, I’m a Backend Software Engineer specializing in designing and building scalable APIs, microservices, ETL pipelines, and cloud-based systems. I work extensively with Python, FastAPI, SQL, AWS, Kafka, and distributed system design to deliver production-ready backend solutions with a focus on performance, reliability, and maintainable code.
+## About Me 👨‍💻  
+I build intelligent systems across machine learning, AI applications, and backend engineering. My work spans LLM-based tools, ML pipelines, real-time speech processing, data workflows, and scalable API services. I enjoy transforming ideas into practical, reliable solutions that perform in real-world environments.
 
-I have a strong track record of improving system efficiency, building robust microservices, and integrating complex cloud-based architectures. I enjoy solving challenging problems, optimizing processes, and contributing to high-quality software that drives real-world impact.
+I’m also involved in machine learning research, with contributions in data security, image-based analysis, and multimodal systems, along with published work in these areas. This blend of research depth and engineering execution helps me approach problems with clarity, rigor, and practical insight.
 
-In addition to development, I mentor and guide teams, sharing knowledge on Python, Machine Learning, and backend technologies, and fostering a learning-oriented environment.
+---
 
-I’m always open to collaborating on innovative projects or exploring opportunities to build scalable and impactful backend systems—let’s connect!
+## What I’m Looking to Collaborate On 🤝  
+- AI and ML-driven projects solving real-world challenges  
+- LLM applications, ML tooling, and intelligent automation  
+- Scalable backend systems and microservices  
+- Research collaborations in machine learning and AI  
 
-## I’m Looking to Collaborate On 🤝  
-- AI and ML-driven projects solving real-world challenges.
-- Innovative backend solutions and scalable microservices.
-- Research-oriented collaborations in AI and Machine Learning.
+---
 
 ## How to Reach Me 📫  
 - **LinkedIn**: [linkedin.com/in/shubhamsinghcmr](https://www.linkedin.com/in/shubhamsinghcmr)
