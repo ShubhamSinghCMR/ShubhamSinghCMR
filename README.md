@@ -1,8 +1,8 @@
 ## 👋 Hi, I'm Shubham
 
-- Applied AI/ML Systems Engineer building production-grade intelligent platforms for real-world AI systems and data platforms.
-- Focused on LLM pipelines, real-time systems, and scalable data platforms.  
-- Strong foundations in Artificial Intelligence, Machine Learning, and system modeling, backed by research and enterprise engineering experience.
+- Applied AI/ML Systems Engineer building production-grade intelligent platforms for real-world AI systems and data platforms
+- Focused on LLM pipelines, real-time systems, and scalable data platforms
+- Strong foundations in Artificial Intelligence, Machine Learning, and system modeling, backed by research and enterprise engineering experience
 
 ---
 
